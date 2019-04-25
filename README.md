@@ -29,7 +29,7 @@ with open('.secrets/credentials.json') as f:
     
 params['v'] = '20180323'
 params['ll'] = '40.7243,-74.0018',
-params[query'] = 'coffee',
+params['query'] = 'coffee',
 params['limit'] = 1
 
 response = requests.get(url=url, params=params)
