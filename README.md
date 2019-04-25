@@ -2,7 +2,7 @@
 
 ## Register
 
-* Please (register for the Foursquare API)[https://foursquare.com/developers/apps] and create an app. When you create the app, you can indicate that you're affiliated with Flatiron School and that you're a student. 
+* Please [register for the Foursquare API](https://foursquare.com/developers/apps) and create an app. When you create the app, you can indicate that you're affiliated with Flatiron School and that you're a student. 
 * Create a file called `.secrets/credentials.json` based on `.secrets/credentials-example.json`
   ```
   cd .secrets
